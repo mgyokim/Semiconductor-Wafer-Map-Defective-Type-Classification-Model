@@ -56,6 +56,10 @@ It's part of the result of visualizing the data.
 ![KakaoTalk_20210713_032822609_08](https://user-images.githubusercontent.com/66030601/125443803-971149f5-1f0a-4c25-9c9f-aa0981380695.jpg)
 
 The data has a total of eight bad types: Center, Donut, Edge-Loc, Edge-Ring, Loc, Random, Scratch, Near-full.
+#
+![3가지 성능비교](https://user-images.githubusercontent.com/66030601/125623346-b92b9856-cdd4-4b78-b7de-cc7cf2d60656.JPG)
+
+I will compare the performance of SVM, CNN, and RF models.
 # 
 # ▶Support vector machine
 ![SVM캡쳐](https://user-images.githubusercontent.com/66030601/125451049-aaa19545-065f-4b3b-8c18-2e3f7088406e.JPG)
